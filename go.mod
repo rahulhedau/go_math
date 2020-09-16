@@ -1,3 +1,3 @@
-module github.com/rahul-hedau/go_math
+module go_math
 
 go 1.15
